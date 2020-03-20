@@ -13,7 +13,7 @@
 #
 # In order to add a proper "LHCb Simulation" text box, use:
 #   plt.text(x, y, 'LHCb Simulation', {'size': 28})
-backend: PDF
+#backend: PDF
 
 axes.labelsize: 28
 axes.linewidth: 2
